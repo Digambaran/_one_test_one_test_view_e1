@@ -1,0 +1,1 @@
+{"name":"one_test_view_e1","type":"ui-elements","source":{"https":"https://github.com/Digambaran/_one_test_one_test_view_e1","ssh":"git@github.com:Digambaran/_one_test_one_test_view_e1.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
